@@ -1,4 +1,31 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "hugo-coder"
+defaultcontentlanguage = "en"
+title = 'Chatify'
+theme = 'hugo-coder'
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Chatify"
+  info = "Chat based music recommendation app"
+  description = "chatify's website"
+  keywords = "AI, music, recommendation"
+  avatarurl = "images/chatify.png"
+
+  faviconSVG = "images/favicon.svg"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
+
+[[menu.main]]
+  name = "Policy"
+  weight = 1
+  url  = "policy/main/"
