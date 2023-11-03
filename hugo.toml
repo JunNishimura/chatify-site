@@ -1,8 +1,9 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://JunNishimura.github.io/chatify_site/'
 languageCode = 'en-us'
 defaultcontentlanguage = "en"
 title = 'Chatify'
 theme = 'hugo-coder'
+publishDir = "docs"
 
 [markup.highlight]
 style = "github-dark"
