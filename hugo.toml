@@ -1,4 +1,4 @@
-baseURL = 'https://JunNishimura.github.io/chatify_site/'
+baseURL = 'https://JunNishimura.github.io/chatify-site/'
 languageCode = 'en-us'
 defaultcontentlanguage = "en"
 title = 'Chatify'
