@@ -30,3 +30,8 @@ style = "github-dark"
   name = "Policy"
   weight = 1
   url  = "policy/main/"
+
+[[menu.main]]
+  name = "Manual"
+  weight = 1
+  url = "manual/main/"
