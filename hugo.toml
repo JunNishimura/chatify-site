@@ -29,7 +29,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Policy"
   weight = 1
-  url  = "policy/main/"
+  url = "policy/main/"
 
 [[menu.main]]
   name = "Manual"
