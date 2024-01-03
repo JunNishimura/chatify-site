@@ -18,3 +18,8 @@ Answer the question from Chatify.
 ### Play Scene
 {{<figure src="/chatify-site/images/play_scene.png" width="320">}}
 Press the button to play music.
+
+### Contact Information
+Please contact us if you have any questions.
+
+n.junjun0303@gmail.com
